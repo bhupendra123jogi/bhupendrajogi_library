@@ -39,7 +39,7 @@ const useStyles = createStyles((theme) => ({
   },
 }));
 
-export function ArticlesCardsGrid() {
+function ArticlesCardsGrid() {
   const { classes } = useStyles();
 
   const cards = list.map((book) => (
