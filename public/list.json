@@ -1,0 +1,244 @@
+{
+  "list": [
+    {
+      "link": "https://goalkicker.com/XamarinFormsBook/XamarinFormsNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/XamarinFormsBook/XamarinFormsGrow.png",
+      "name": "XamarinFormsNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETGrow.png",
+      "name": "VisualBasic_NETNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/VBABook/VBANotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/VBABook/VBAGrow.png",
+      "name": "VBANotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/TypeScriptBook2/TypeScriptGrow.png",
+      "name": "TypeScriptNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/SwiftBook/SwiftNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/SwiftBook/SwiftGrow.png",
+      "name": "SwiftNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/SQLBook/SQLGrow.png",
+      "name": "SQLNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkGrow.png",
+      "name": "SpringFrameworkNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsGrow.png",
+      "name": "RubyOnRailsNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/RubyBook/RubyNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/RubyBook/RubyGrow.png",
+      "name": "RubyNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/ReactNativeBook/ReactNativeNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/ReactNativeBook/ReactNativeGrow.png",
+      "name": "ReactNativeNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/ReactJSBook/ReactJSNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/ReactJSBook/ReactJSGrow.png",
+      "name": "ReactJSNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/RBook/RNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/RBook/RGrow.png",
+      "name": "RNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/PythonBook/PythonGrow.png",
+      "name": "PythonNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/PowerShellBook/PowerShellGrow.png",
+      "name": "PowerShellNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/PostgreSQLBook/PostgreSQLGrow.png",
+      "name": "PostgreSQLNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/PHPBook/PHPNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/PHPBook/PHPGrow.png",
+      "name": "PHPNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/PerlBook/PerlNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/PerlBook/PerlGrow.png",
+      "name": "PerlNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png",
+      "name": "OracleDatabaseNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/ObjectiveCBook/ObjectiveCNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/ObjectiveCBook/ObjectiveCGrow.png",
+      "name": "ObjectiveCNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/NodeJSBook/NodeJSNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/NodeJSBook/NodeJSGrow.png",
+      "name": "NodeJSNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/MySQLBook/MySQLGrow.png",
+      "name": "MySQLNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/MongoDBBook/MongoDBGrow.png",
+      "name": "MongoDBNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerGrow.png",
+      "name": "MicrosoftSQLServerNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/MATLABBook/MATLABNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/MATLABBook/MATLABGrow.png",
+      "name": "MATLABNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/LinuxBook/LinuxGrow.png",
+      "name": "LinuxNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/LaTeXBook/LaTeXNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/LaTeXBook/LaTeXGrow.png",
+      "name": "LaTeXNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/KotlinBook/KotlinNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/KotlinBook/KotlinGrow.png",
+      "name": "KotlinNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/jQueryBook/jQueryNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/jQueryBook/jQueryGrow.png",
+      "name": "jQueryNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/JavaScriptBook/JavaScriptGrow.png",
+      "name": "JavaScriptNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/JavaBook/JavaNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/JavaBook/JavaGrow.png",
+      "name": "JavaNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/iOSBook/iOSNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/iOSBook/iOSGrow.png",
+      "name": "iOSNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasGrow.png",
+      "name": "HTML5CanvasNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/HTML5Book/HTML5Grow.png",
+      "name": "HTML5NotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/HibernateBook/HibernateNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/HibernateBook/HibernateGrow.png",
+      "name": "HibernateNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/HaskellBook/HaskellGrow.png",
+      "name": "HaskellNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/GitBook/GitGrow.png",
+      "name": "GitNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/ExcelVBABook/ExcelVBANotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/ExcelVBABook/ExcelVBAGrow.png",
+      "name": "ExcelVBANotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkGrow.png",
+      "name": "EntityFrameworkNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/CSSBook/CSSGrow.png",
+      "name": "CSSNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/CSharpBook/CSharpNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/CSharpBook/CSharpGrow.png",
+      "name": "CSharpNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/CPlusPlusBook/CPlusPlusNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/CPlusPlusBook/CPlusPlusGrow.png",
+      "name": "CPlusPlusNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/CBook/CNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/CBook/CGrow.png",
+      "name": "CNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/BashBook/BashNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/BashBook/BashGrow.png",
+      "name": "BashNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/AngularJSBook/AngularJSNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/AngularJSBook/AngularJSGrow.png",
+      "name": "AngularJSNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/Angular2Book/Angular2Grow.png",
+      "name": "Angular2NotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/AndroidBook/AndroidNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/AndroidBook/AndroidGrow.png",
+      "name": "AndroidNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/AlgorithmsBook/AlgorithmsNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png",
+      "name": "AlgorithmsNotesForProfessionals"
+    },
+    {
+      "link": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf",
+      "image": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkGrow.png",
+      "name": "DotNETFrameworkNotesForProfessionals"
+    }
+  ]
+}
