@@ -6,7 +6,6 @@ import { CardsCarousel as Carousel } from './components/Carousel'
 import { list } from '../public/list.json'
 
 export default function Home() {
-  const ref = useRef(null);
 
   return (
     <>
@@ -14,7 +13,7 @@ export default function Home() {
 
       <div style={{ marginTop: 'calc(100vh/5)' }}>
         {/* <Carousel data={list} /> */}
-        <ArticlesCardsGrid ref={ref} />
+        <ArticlesCardsGrid />
       </div>
     </>
   )
@@ -40,12 +39,12 @@ const useStyles = createStyles((theme) => ({
   },
 }));
 
-export function ArticlesCardsGrid({ cardRef }: any) {
+export function ArticlesCardsGrid() {
   const { classes } = useStyles();
 
   const cards = list.map((book) => (
     <Flex key={book.name} direction="column" align="center" justify="center">
-      <Card ref={cardRef} key={book.name} p="md" radius="md" component="a" className={classes.card} id={book.name.toLowerCase()}>
+      <Card key={book.name} p="md" radius="md" component="a" className={classes.card} id={book.name.toLowerCase()}>
         <AspectRatio w={300} ratio={350 / 495}>
           <Image src={book.image} alt={book.name.toLowerCase()} />
         </AspectRatio>
