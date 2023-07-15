@@ -42,22 +42,43 @@ interface HeaderSearchProps {
 export function HeaderSearch() {
   const { classes } = useStyles();
   const [value, setValue] = useState('');
-  // const data = list.map((book) => book.name.split(/(?=[A-Z])/))
-  //   .map((book) => book.map((word) => word.split(/(?=[A-Z])/).join(' ')))
-  //   .map((book) => book.join(' '));
 
-  // const data = list.map((book) => splitCombinedWords(book.name))
+  let autocomplete: any[];
+  // set the data for the autocomplete to search for tags and names
+  autocomplete = list.map(book => book.tags)
+  autocomplete = autocomplete.flat()
+  autocomplete = autocomplete.map(tag => splitCombinedWords(tag))
+  autocomplete = autocomplete.concat(list.map(book => book.name))
+  autocomplete = autocomplete.sort()
+  autocomplete = autocomplete.filter((item, index) => autocomplete.indexOf(item) === index)
+
+
   const data = list.map(book => book.name)
   data.sort();
 
   useEffect(() => {
+    let search
+
     if (value) {
-      const book = list.find((book) => book.name.toLowerCase() == value.split(' ').join('').toLowerCase());
-      if (book) {
-        window.open(book.name);
+      search = list.filter(book => book.name.toLowerCase().includes(value.toLowerCase()))
+      if (search.length === 0) {
+        search = list.filter(book => book.tags.some(tag => tag.toLowerCase().includes(value.toLowerCase())))
+        if (search.length === 0) {
+          console.log("no books found")
+        }
       }
+
+      // redirect /search with the search results on enter
+
+      // listen for enter
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter') {
+          window.location.href = `/search?query=${value}`
+        }
+      });
+
+      // window.location.href = `/search?query=${value}&results=${JSON.stringify(results)}`
     }
-    console.log(value);
   }, [value]);
 
   return (
@@ -76,7 +97,7 @@ export function HeaderSearch() {
             className={classes.search}
             placeholder="Search"
             icon={<IconSearch size="1rem" stroke={1.5} />}
-            data={data}
+            data={autocomplete}
             limit={10}
             value={value}
             onChange={setValue}
@@ -92,6 +113,7 @@ export function HeaderSearch() {
 
 import _ from 'lodash';
 import { MutableRefObject, useEffect, useState } from 'react';
+import { Hash } from 'crypto';
 
 function splitCombinedWords(str: string) {
   var words = str.split(/(?=[A-Z])/);  // Split at uppercase letters
