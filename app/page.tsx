@@ -2,7 +2,7 @@
 
 import { HeaderSearch as Navbar } from "./components/Navbar";
 
-import { list } from "../public/list.json";
+import list from "../public/list.json";
 
 import { Card as CCard } from "./components/Card";
 
@@ -14,6 +14,8 @@ export default function Home() {
       <div style={{ marginTop: "calc(100vh/5)" }} className="bg-base-100">
         <ArticlesCardsGrid />
       </div>
+
+      <Footer />
     </>
   );
 }
@@ -24,6 +26,7 @@ import {
   Flex,
 } from "@mantine/core";
 import { useEffect, useState } from "react";
+import { Footer } from "./components/Footer";
 
 const useStyles = createStyles((theme) => ({
   card: {
@@ -69,7 +72,7 @@ function ArticlesCardsGrid() {
   }, []);
 
   // sort the list by name and tags
-  l = list
+  l = list.list
     .sort((a, b) => {
       if (a.name > b.name) return 1;
       else if (a.name < b.name) return -1;

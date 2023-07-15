@@ -2,9 +2,10 @@
 
 import { useEffect, useState } from "react";
 import { Card } from "../components/Card";
-import { list } from "../../public/list.json";
+import list from "../../public/list.json";
 import { conformsTo } from "lodash";
 import { Flex, SimpleGrid } from "@mantine/core";
+import { BackButton } from "../components/BackButton";
 
 export default function SearchPage() {
   let [query, setQuery] = useState("");
@@ -37,7 +38,7 @@ export default function SearchPage() {
   }, []);
 
   // filter the results for name and tags and return the book
-  let results = list.filter(
+  let results = list.list.filter(
     (book) =>
       query.toLowerCase() == book.name.toLowerCase() ||
       book.name.toLowerCase().includes(query.toLowerCase()) ||
@@ -52,35 +53,7 @@ export default function SearchPage() {
   return (
     <div className="bg-base-100">
       {/* floating button to back to homepage */}
-      <div
-        className="fixed top-5 left-5 z-50 tooltip tooltip-right"
-        data-tip={"Back to Homepage"}
-      >
-        <button
-          className="btn btn-primary btn-circle btn-lg"
-          onClick={() => {
-            window.location.href = "/";
-          }}
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="icon icon-tabler icon-tabler-arrow-narrow-left"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            strokeWidth="1.5"
-            stroke="#ffffff"
-            fill="none"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          >
-            <path stroke="none" d="M0 0h24v24H0z" />
-            <line x1="5" y1="12" x2="19" y2="12" />
-            <line x1="5" y1="12" x2="9" y2="16" />
-            <line x1="5" y1="12" x2="9" y2="8" />
-          </svg>
-        </button>
-      </div>
+      <BackButton />
 
       <div className="container mx-auto bg-base-100">
         <div className="text-center">

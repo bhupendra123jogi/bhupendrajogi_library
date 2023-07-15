@@ -18,7 +18,7 @@ import {
   IconSearch,
   IconSortAscendingLetters,
 } from "@tabler/icons-react";
-import { list } from "../../public/list.json";
+import list from "../../public/list.json";
 
 const useStyles = createStyles((theme) => ({
   header: {
@@ -76,16 +76,19 @@ export function HeaderSearch() {
 
   let autocomplete: any[];
   // set the data for the autocomplete to search for tags and names
-  autocomplete = list.map((book) => book.tags);
+  autocomplete = list.list.map((book) => book.tags);
   autocomplete = autocomplete.flat();
   autocomplete = autocomplete.map((tag) => splitCombinedWords(tag));
-  autocomplete = autocomplete.concat(list.map((book) => book.name));
+
+  // FIXME: Unable to find books if searched by book name
+  // autocomplete = autocomplete.concat(list.list.map((book) => book.name));
+
   autocomplete = autocomplete.sort();
   autocomplete = autocomplete.filter(
     (item, index) => autocomplete.indexOf(item) === index
   );
 
-  const data = list.map((book) => book.name);
+  const data = list.list.map((book) => book.name);
   data.sort();
 
   useEffect(() => {
@@ -94,11 +97,11 @@ export function HeaderSearch() {
     console.log(size)
 
     if (value) {
-      search = list.filter((book) =>
+      search = list.list.filter((book) =>
         book.name.toLowerCase().includes(value.toLowerCase())
       );
       if (search.length === 0) {
-        search = list.filter((book) =>
+        search = list.list.filter((book) =>
           book.tags.some((tag) =>
             tag.toLowerCase().includes(value.toLowerCase())
           )
@@ -107,18 +110,11 @@ export function HeaderSearch() {
           console.log("no books found");
         }
       }
-
-      // redirect /search with the search results on enter
-
-      // listen for enter
       document.addEventListener("keydown", function (event) {
         if (event.key === "Enter") {
           window.location.href = `/search?query=${value}`;
         }
       });
-
-
-      // window.location.href = `/search?query=${value}&results=${JSON.stringify(results)}`
     }
   }, [value]);
 
@@ -191,33 +187,6 @@ export function HeaderSearch() {
         </Header>
       )}
     </>
-
-    // <Header Header height = { 56} className = { classes.header } mb = { 120} >
-    // <div className={classes.inner}>
-    //   <Group style={{
-    //     fontSize: '1.1rem',
-    //     fontWeight: '700',
-    //   }}>
-    //     <IconBooks size="1.5rem" />
-    //     Koding Books
-    //   </Group>
-
-    //   <Group>
-    //     <Autocomplete
-    //       className={classes.search}
-    //       placeholder="Search"
-    //       icon={<IconSearch size="1rem" stroke={1.5} />}
-    //       data={autocomplete}
-    //       limit={10}
-    //       value={value}
-    //       onChange={setValue}
-    //       radius={15}
-    //       bg={'#212f4d'}
-    //       rightSection={<div className='kbd kbd-sm'>/</div>}
-    //     />
-    //   </Group>
-    // </div>
-    // </Header >
   );
 }
 
