@@ -3,338 +3,290 @@
     {
       "link": "https://goalkicker.com/XamarinFormsBook/XamarinFormsNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/XamarinFormsBook/XamarinFormsGrow.png",
-      "name": "XamarinFormsNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Xamarin Forms", "Mobile Development"]
+      "name": "Xamarin Forms Notes",
+      "tags": ["Xamarin", "Cross-platform", "Mobile Development"]
     },
     {
       "link": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETGrow.png",
-      "name": "VisualBasic_NETNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Visual Basic .NET"]
+      "name": "Visual Basic .NET Notes",
+      "tags": [".NET", "Microsoft", "Programming"]
     },
     {
       "link": "https://goalkicker.com/VBABook/VBANotesForProfessionals.pdf",
       "image": "https://goalkicker.com/VBABook/VBAGrow.png",
-      "name": "VBANotesForProfessionals",
-      "type": "Programming",
-      "tags": ["VBA", "Microsoft Office"]
+      "name": "VBA Notes",
+      "tags": ["VBA", "Microsoft Office", "Automation"]
     },
     {
       "link": "https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/TypeScriptBook2/TypeScriptGrow.png",
-      "name": "TypeScriptNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["TypeScript", "JavaScript"]
+      "name": "TypeScript Notes",
+      "tags": ["TypeScript", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/SwiftBook/SwiftNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/SwiftBook/SwiftGrow.png",
-      "name": "SwiftNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Swift", "iOS Development"]
+      "name": "Swift Notes",
+      "tags": ["Swift", "iOS Development", "Programming"]
     },
     {
       "link": "https://goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/SQLBook/SQLGrow.png",
-      "name": "SQLNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["SQL", "Database Management"]
+      "name": "SQL Notes",
+      "tags": ["SQL", "Database", "Query Language"]
     },
     {
       "link": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkGrow.png",
-      "name": "SpringFrameworkNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Spring Framework", "Java"]
+      "name": "Spring Framework Notes",
+      "tags": ["Spring", "Java", "Framework"]
     },
     {
       "link": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsGrow.png",
-      "name": "RubyOnRailsNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Ruby on Rails", "Web Development"]
+      "name": "Ruby on Rails Notes",
+      "tags": ["Ruby on Rails", "Web Development", "Framework"]
     },
     {
       "link": "https://goalkicker.com/RubyBook/RubyNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/RubyBook/RubyGrow.png",
-      "name": "RubyNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Ruby", "Scripting"]
+      "name": "Ruby Notes",
+      "tags": ["Ruby", "Scripting", "Programming"]
     },
     {
       "link": "https://goalkicker.com/ReactNativeBook/ReactNativeNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/ReactNativeBook/ReactNativeGrow.png",
-      "name": "ReactNativeNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["React Native", "Mobile Development"]
+      "name": "React Native Notes",
+      "tags": ["React Native", "JavaScript", "Mobile Development"]
     },
     {
       "link": "https://goalkicker.com/ReactJSBook/ReactJSNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/ReactJSBook/ReactJSGrow.png",
-      "name": "ReactJSNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["ReactJS", "Web Development"]
+      "name": "ReactJS Notes",
+      "tags": ["ReactJS", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/RBook/RNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/RBook/RGrow.png",
-      "name": "RNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["R", "Data Analysis"]
+      "name": "R Notes",
+      "tags": ["R", "Statistics", "Data Analysis"]
     },
     {
       "link": "https://goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/PythonBook/PythonGrow.png",
-      "name": "PythonNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Python", "Scripting", "Data Science"]
+      "name": "Python Notes",
+      "tags": ["Python", "Scripting", "Programming"]
     },
     {
       "link": "https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/PowerShellBook/PowerShellGrow.png",
-      "name": "PowerShellNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["PowerShell", "Scripting", "Windows"]
+      "name": "PowerShell Notes",
+      "tags": ["PowerShell", "Scripting", "Automation"]
     },
     {
       "link": "https://goalkicker.com/PostgreSQLBook/PostgreSQLNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/PostgreSQLBook/PostgreSQLGrow.png",
-      "name": "PostgreSQLNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["PostgreSQL", "Database Management"]
+      "name": "PostgreSQL Notes",
+      "tags": ["PostgreSQL", "Database", "Query Language"]
     },
     {
       "link": "https://goalkicker.com/PHPBook/PHPNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/PHPBook/PHPGrow.png",
-      "name": "PHPNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["PHP", "Web Development"]
+      "name": "PHP Notes",
+      "tags": ["PHP", "Web Development", "Scripting"]
     },
     {
       "link": "https://goalkicker.com/PerlBook/PerlNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/PerlBook/PerlGrow.png",
-      "name": "PerlNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Perl", "Scripting"]
+      "name": "Perl Notes",
+      "tags": ["Perl", "Scripting", "Programming"]
     },
     {
       "link": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png",
-      "name": "OracleDatabaseNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Oracle Database", "Database Management"]
+      "name": "Oracle Database Notes",
+      "tags": ["Oracle", "Database", "Query Language"]
     },
     {
       "link": "https://goalkicker.com/ObjectiveCBook/ObjectiveCNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/ObjectiveCBook/ObjectiveCGrow.png",
-      "name": "ObjectiveCNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Objective-C", "iOS Development"]
+      "name": "Objective-C Notes",
+      "tags": ["Objective-C", "iOS Development", "Programming"]
     },
     {
       "link": "https://goalkicker.com/NodeJSBook/NodeJSNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/NodeJSBook/NodeJSGrow.png",
-      "name": "NodeJSNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Node.js", "JavaScript"]
+      "name": "Node.js Notes",
+      "tags": ["Node.js", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/MySQLBook/MySQLNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/MySQLBook/MySQLGrow.png",
-      "name": "MySQLNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["MySQL", "Database Management"]
+      "name": "MySQL Notes",
+      "tags": ["MySQL", "Database", "Query Language"]
     },
     {
       "link": "https://goalkicker.com/MongoDBBook/MongoDBNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/MongoDBBook/MongoDBGrow.png",
-      "name": "MongoDBNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["MongoDB", "Database Management"]
+      "name": "MongoDB Notes",
+      "tags": ["MongoDB", "NoSQL", "Database"]
     },
     {
       "link": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerGrow.png",
-      "name": "MicrosoftSQLServerNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Microsoft SQL Server", "Database Management"]
+      "name": "Microsoft SQL Server Notes",
+      "tags": ["SQL Server", "Database", "Microsoft"]
     },
     {
       "link": "https://goalkicker.com/MATLABBook/MATLABNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/MATLABBook/MATLABGrow.png",
-      "name": "MATLABNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["MATLAB", "Numerical Computing"]
+      "name": "MATLAB Notes",
+      "tags": ["MATLAB", "Numerical Computing", "Engineering"]
     },
     {
       "link": "https://goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/LinuxBook/LinuxGrow.png",
-      "name": "LinuxNotesForProfessionals",
-      "type": "Operating System",
-      "tags": ["Linux", "Operating System"]
+      "name": "Linux Notes",
+      "tags": ["Linux", "Operating System", "Unix"]
     },
     {
       "link": "https://goalkicker.com/LaTeXBook/LaTeXNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/LaTeXBook/LaTeXGrow.png",
-      "name": "LaTeXNotesForProfessionals",
-      "type": "Tools",
-      "tags": ["LaTeX", "Typesetting"]
+      "name": "LaTeX Notes",
+      "tags": ["LaTeX", "Typesetting", "Document Preparation"]
     },
     {
       "link": "https://goalkicker.com/KotlinBook/KotlinNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/KotlinBook/KotlinGrow.png",
-      "name": "KotlinNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Kotlin", "Android Development"]
+      "name": "Kotlin Notes",
+      "tags": ["Kotlin", "Java", "Android Development"]
     },
     {
       "link": "https://goalkicker.com/jQueryBook/jQueryNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/jQueryBook/jQueryGrow.png",
-      "name": "jQueryNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["jQuery", "JavaScript"]
+      "name": "jQuery Notes",
+      "tags": ["jQuery", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/JavaScriptBook/JavaScriptNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/JavaScriptBook/JavaScriptGrow.png",
-      "name": "JavaScriptNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["JavaScript", "Web Development"]
+      "name": "JavaScript Notes",
+      "tags": ["JavaScript", "Web Development", "Scripting"]
     },
     {
       "link": "https://goalkicker.com/JavaBook/JavaNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/JavaBook/JavaGrow.png",
-      "name": "JavaNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Java", "Object-Oriented Programming"]
+      "name": "Java Notes",
+      "tags": ["Java", "Object-Oriented Programming", "Programming"]
     },
     {
       "link": "https://goalkicker.com/iOSBook/iOSNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/iOSBook/iOSGrow.png",
-      "name": "iOSNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["iOS", "Mobile Development"]
+      "name": "iOS Notes",
+      "tags": ["iOS", "Mobile Development", "Swift"]
     },
     {
       "link": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasGrow.png",
-      "name": "HTML5CanvasNotesForProfessionals",
-      "type": "Programming",
+      "name": "HTML5 Canvas Notes",
       "tags": ["HTML5", "Canvas", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/HTML5Book/HTML5NotesForProfessionals.pdf",
       "image": "https://goalkicker.com/HTML5Book/HTML5Grow.png",
-      "name": "HTML5NotesForProfessionals",
-      "type": "Programming",
-      "tags": ["HTML5", "Web Development"]
+      "name": "HTML5 Notes",
+      "tags": ["HTML5", "Web Development", "Markup Language"]
     },
     {
       "link": "https://goalkicker.com/HibernateBook/HibernateNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/HibernateBook/HibernateGrow.png",
-      "name": "HibernateNotesForProfessionals",
-      "type": "Programming",
+      "name": "Hibernate Notes",
       "tags": ["Hibernate", "Java", "ORM"]
     },
     {
       "link": "https://goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/HaskellBook/HaskellGrow.png",
-      "name": "HaskellNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Haskell", "Functional Programming"]
+      "name": "Haskell Notes",
+      "tags": ["Haskell", "Functional Programming", "Programming"]
     },
     {
       "link": "https://goalkicker.com/GitBook/GitNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/GitBook/GitGrow.png",
-      "name": "GitNotesForProfessionals",
-      "type": "Tools",
-      "tags": ["Git", "Version Control"]
+      "name": "Git Notes",
+      "tags": ["Git", "Version Control", "Software Development"]
     },
     {
       "link": "https://goalkicker.com/ExcelVBABook/ExcelVBANotesForProfessionals.pdf",
       "image": "https://goalkicker.com/ExcelVBABook/ExcelVBAGrow.png",
-      "name": "ExcelVBANotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Excel VBA", "Microsoft Office"]
+      "name": "Excel VBA Notes",
+      "tags": ["Excel", "VBA", "Microsoft Office"]
     },
     {
       "link": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkGrow.png",
-      "name": "EntityFrameworkNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Entity Framework", "Database Management"]
+      "name": "Entity Framework Notes",
+      "tags": ["Entity Framework", "Microsoft", "ORM"]
     },
     {
       "link": "https://goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/CSSBook/CSSGrow.png",
-      "name": "CSSNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["CSS", "Web Development"]
+      "name": "CSS Notes",
+      "tags": ["CSS", "Web Development", "Styling"]
     },
     {
       "link": "https://goalkicker.com/CSharpBook/CSharpNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/CSharpBook/CSharpGrow.png",
-      "name": "CSharpNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["C#", "Microsoft .NET"]
+      "name": "C# Notes",
+      "tags": ["C#", "Microsoft .NET", "Programming"]
     },
     {
       "link": "https://goalkicker.com/CPlusPlusBook/CPlusPlusNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/CPlusPlusBook/CPlusPlusGrow.png",
-      "name": "CPlusPlusNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["C++", "Object-Oriented Programming"]
+      "name": "C++ Notes",
+      "tags": ["C++", "Object-Oriented Programming", "Programming"]
     },
     {
       "link": "https://goalkicker.com/CBook/CNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/CBook/CGrow.png",
-      "name": "CNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["C", "Systems Programming"]
+      "name": "C Notes",
+      "tags": ["C", "Systems Programming", "Programming"]
     },
     {
       "link": "https://goalkicker.com/BashBook/BashNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/BashBook/BashGrow.png",
-      "name": "BashNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Bash", "Scripting", "Command Line"]
+      "name": "Bash Notes",
+      "tags": ["Bash", "Scripting", "Unix"]
     },
     {
       "link": "https://goalkicker.com/AngularJSBook/AngularJSNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/AngularJSBook/AngularJSGrow.png",
-      "name": "AngularJSNotesForProfessionals",
-      "type": "Programming",
+      "name": "AngularJS Notes",
       "tags": ["AngularJS", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf",
       "image": "https://goalkicker.com/Angular2Book/Angular2Grow.png",
-      "name": "Angular2NotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Angular 2", "JavaScript", "Web Development"]
+      "name": "Angular 2 Notes",
+      "tags": ["Angular", "JavaScript", "Web Development"]
     },
     {
       "link": "https://goalkicker.com/AndroidBook/AndroidNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/AndroidBook/AndroidGrow.png",
-      "name": "AndroidNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Android", "Mobile Development"]
+      "name": "Android Notes",
+      "tags": ["Android", "Mobile Development", "Java"]
     },
     {
       "link": "https://goalkicker.com/AlgorithmsBook/AlgorithmsNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png",
-      "name": "AlgorithmsNotesForProfessionals",
-      "type": "Programming",
-      "tags": ["Algorithms", "Data Structures"]
+      "name": "Algorithms Notes",
+      "tags": ["Algorithms", "Computer Science", "Programming"]
     },
     {
       "link": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf",
       "image": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkGrow.png",
-      "name": "DotNETFrameworkNotesForProfessionals",
-      "type": "Programming",
-      "tags": [".NET Framework", "Microsoft .NET"]
+      "name": ".NET Framework Notes",
+      "tags": [".NET", "Microsoft", "Framework"]
     }
   ]
 }
