@@ -23,6 +23,7 @@ import {
   SimpleGrid,
   Flex,
 } from "@mantine/core";
+import { useEffect, useState } from "react";
 
 const useStyles = createStyles((theme) => ({
   card: {
@@ -42,8 +43,30 @@ const useStyles = createStyles((theme) => ({
 
 function ArticlesCardsGrid() {
   const { classes } = useStyles();
+  let [cols, setCols] = useState(4);
+  let [maxWidth, setMaxWidth] = useState(1800);
 
   let l;
+
+  useEffect(() => {
+    // set the number of columns
+    let cols = 4,
+      maxWidth = 1800;
+    if (window.innerWidth < 1800) {
+      cols = 3;
+      maxWidth = 1200;
+    }
+    if (window.innerWidth < 1200) {
+      cols = 2;
+      maxWidth = 800;
+    }
+    if (window.innerWidth < 800) {
+      cols = 1;
+      maxWidth = 400;
+    }
+    setCols(cols);
+    setMaxWidth(maxWidth);
+  }, []);
 
   // sort the list by name and tags
   l = list
@@ -69,21 +92,6 @@ function ArticlesCardsGrid() {
       />
     </Flex>
   ));
-
-  let cols = 4,
-    maxWidth = 1800;
-  if (window.innerWidth < 1800) {
-    cols = 3;
-    maxWidth = 1200;
-  }
-  if (window.innerWidth < 1200) {
-    cols = 2;
-    maxWidth = 800;
-  }
-  if (window.innerWidth < 800) {
-    cols = 1;
-    maxWidth = 400;
-  }
 
   return (
     <>

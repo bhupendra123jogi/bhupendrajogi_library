@@ -1,16 +1,40 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { Card } from "../components/Card";
 import { list } from "../../public/list.json";
 import { conformsTo } from "lodash";
 import { Flex, SimpleGrid } from "@mantine/core";
 
 export default function SearchPage() {
+  let [query, setQuery] = useState("");
+  let [cols, setCols] = useState(4);
+  let [maxWidth, setMaxWidth] = useState(1800);
   // get the query and results from the url
-  let query = window.location.href.split('?query=')[1];
-  query = query.split('&')[0]
-  // const results = JSON.parse(window.location.href.split("&results=")[1])
+
+  // put the query in a variable in useeffect
+  useEffect(() => {
+    let q = window.location.href.split("?query=")[1];
+    setQuery(q.split("&")[0]);
+
+    // set the number of columns
+    let cols = 4,
+      maxWidth = 1800;
+    if (window.innerWidth < 1800) {
+      cols = 3;
+      maxWidth = 1200;
+    }
+    if (window.innerWidth < 1200) {
+      cols = 2;
+      maxWidth = 800;
+    }
+    if (window.innerWidth < 800) {
+      cols = 1;
+      maxWidth = 400;
+    }
+    setCols(cols);
+    setMaxWidth(maxWidth);
+  }, []);
 
   // filter the results for name and tags and return the book
   let results = list.filter(
@@ -20,27 +44,10 @@ export default function SearchPage() {
       book.tags.some((tag) => tag.toLowerCase().includes(query.toLowerCase()) || query.toLowerCase() == tag.toLowerCase())
   );
 
-  console.log(results);
-
   // set the title
   useEffect(() => {
     document.title = `Search Results for ${query} | Koding Books`;
   }, []);
-
-  let cols = 4,
-    maxWidth = 1800;
-  if (window.innerWidth < 1800) {
-    cols = 3;
-    maxWidth = 1200;
-  }
-  if (window.innerWidth < 1200) {
-    cols = 2;
-    maxWidth = 800;
-  }
-  if (window.innerWidth < 800) {
-    cols = 1;
-    maxWidth = 400;
-  }
 
   return (
     <div className="bg-base-100">
