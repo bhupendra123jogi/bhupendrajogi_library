@@ -44,6 +44,9 @@ export function Footer() {
 					<a className='link link-hover' href='about'>
 						About
 					</a>
+					<a className='link link-hover' href='https://github.com/namanyt/kodingbooks'>
+						Github | Source Code
+					</a>
 
 					<br />
 					<span className='footer-title'>Contact</span>

@@ -13,6 +13,7 @@ import {
 	IconBook,
 	IconBook2,
 	IconBooks,
+	IconBrandGithub,
 	IconHomeSearch,
 	IconList,
 	IconSearch,
@@ -137,6 +138,15 @@ export function HeaderSearch() {
 						</Group>
 
 						<Group>
+							{/* Github logo to the github source code */}
+							<a
+								href='https://github.com/namanyt/koding-books'
+								target='_blank'
+								className='tooltip tooltip-left tooltip-primary'
+								data-tip='Github | Source Code'
+								rel='noopener noreferrer'>
+								<IconBook2 size='1.5rem' />
+							</a>
 							<Autocomplete
 								className={classes.search}
 								placeholder='Search'
@@ -165,6 +175,16 @@ export function HeaderSearch() {
 						</Group>
 
 						<Group>
+							{/* Github logo to the github source code */}
+							<a
+								href='https://github.com/namanyt/kodingbooks'
+								target='_blank'
+								className='tooltip tooltip-bottom tooltip-primary'
+								data-tip='Github | Source Code'
+								rel='noopener noreferrer'>
+								<IconBrandGithub size='1.5rem' />
+							</a>
+
 							<Autocomplete
 								className={classes.search}
 								placeholder='Search'
