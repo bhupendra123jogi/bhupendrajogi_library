@@ -72,6 +72,7 @@ export function ArticlesCardsGrid() {
 					tags={book.tags}
 				/>
 			</Flex>
+		)
 	});
 
 	return (
