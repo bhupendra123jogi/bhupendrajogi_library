@@ -88,7 +88,7 @@ export function HeroContentLeft() {
 				zIndex={0}
 			/>
 			<Container className={classes.container}>
-				<Title className={classes.title}>A Online Book Library</Title>
+				<Title className={classes.title}>The Online Book Library</Title>
 				<Text className={classes.description} size='xl' mt='xl'>
 					Welcome to the Book Library! Explore our comprehensive collection of
 					programming notes for professionals. Discover valuable resources on
