@@ -42,7 +42,6 @@ export default function Home() {
 
 			<div className='bg-base-100 mt-[10rem]'>
 				<ArticlesCardsGrid />
-				di F
 			</div>
 			<Footer />
 		</div>

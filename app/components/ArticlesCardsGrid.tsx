@@ -58,22 +58,20 @@ export function ArticlesCardsGrid() {
 		});
 
 	const cards = l.map((book, i) => {
-		if (book.tags.includes('Programming'))
-			return (
-				<Flex
+		return (
+			<Flex
+				key={book.name}
+				direction='column'
+				align='center'
+				justify='center'>
+				<CCard
 					key={book.name}
-					direction='column'
-					align='center'
-					justify='center'>
-					<CCard
-						key={book.name}
-						image={book.image}
-						link={book.link}
-						name={book.name}
-						tags={book.tags}
-					/>
-				</Flex>
-			);
+					image={book.image}
+					link={book.link}
+					name={book.name}
+					tags={book.tags}
+				/>
+			</Flex>
 	});
 
 	return (
