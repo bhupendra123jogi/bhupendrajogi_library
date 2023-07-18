@@ -1,292 +1,292 @@
 {
-  "list": [
-    {
-      "link": "/books/Xamarin Forms Notes.pdf",
-      "image": "https://goalkicker.com/XamarinFormsBook/XamarinFormsGrow.png",
-      "name": "Xamarin Forms Notes",
-      "tags": ["Xamarin", "Cross-platform", "Mobile Development"]
-    },
-    {
-      "link": "/books/Visual Basic .NET Notes.pdf",
-      "image": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETGrow.png",
-      "name": "Visual Basic .NET Notes",
-      "tags": [".NET", "Microsoft", "Programming"]
-    },
-    {
-      "link": "/books/VBA Notes.pdf",
-      "image": "https://goalkicker.com/VBABook/VBAGrow.png",
-      "name": "VBA Notes",
-      "tags": ["VBA", "Microsoft Office", "Automation"]
-    },
-    {
-      "link": "/books/TypeScript Notes.pdf",
-      "image": "https://goalkicker.com/TypeScriptBook2/TypeScriptGrow.png",
-      "name": "TypeScript Notes",
-      "tags": ["TypeScript", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/Swift Notes.pdf",
-      "image": "https://goalkicker.com/SwiftBook/SwiftGrow.png",
-      "name": "Swift Notes",
-      "tags": ["Swift", "iOS Development", "Programming"]
-    },
-    {
-      "link": "/books/SQL Notes.pdf",
-      "image": "https://goalkicker.com/SQLBook/SQLGrow.png",
-      "name": "SQL Notes",
-      "tags": ["SQL", "Database", "Query Language"]
-    },
-    {
-      "link": "/books/Spring Framework Notes.pdf",
-      "image": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkGrow.png",
-      "name": "Spring Framework Notes",
-      "tags": ["Spring", "Java", "Framework"]
-    },
-    {
-      "link": "/books/Ruby on Rails Notes.pdf",
-      "image": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsGrow.png",
-      "name": "Ruby on Rails Notes",
-      "tags": ["Ruby on Rails", "Web Development", "Framework"]
-    },
-    {
-      "link": "/books/Ruby Notes.pdf",
-      "image": "https://goalkicker.com/RubyBook/RubyGrow.png",
-      "name": "Ruby Notes",
-      "tags": ["Ruby", "Scripting", "Programming"]
-    },
-    {
-      "link": "/books/React Native Notes.pdf",
-      "image": "https://goalkicker.com/ReactNativeBook/ReactNativeGrow.png",
-      "name": "React Native Notes",
-      "tags": ["React Native", "JavaScript", "Mobile Development"]
-    },
-    {
-      "link": "/books/ReactJS Notes.pdf",
-      "image": "https://goalkicker.com/ReactJSBook/ReactJSGrow.png",
-      "name": "ReactJS Notes",
-      "tags": ["ReactJS", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/R Notes.pdf",
-      "image": "https://goalkicker.com/RBook/RGrow.png",
-      "name": "R Notes",
-      "tags": ["R", "Statistics", "Data Analysis"]
-    },
-    {
-      "link": "/books/Python Notes.pdf",
-      "image": "https://goalkicker.com/PythonBook/PythonGrow.png",
-      "name": "Python Notes",
-      "tags": ["Python", "Scripting", "Programming"]
-    },
-    {
-      "link": "/books/PowerShell Notes.pdf",
-      "image": "https://goalkicker.com/PowerShellBook/PowerShellGrow.png",
-      "name": "PowerShell Notes",
-      "tags": ["PowerShell", "Scripting", "Automation"]
-    },
-    {
-      "link": "/books/PostgreSQL Notes.pdf",
-      "image": "https://goalkicker.com/PostgreSQLBook/PostgreSQLGrow.png",
-      "name": "PostgreSQL Notes",
-      "tags": ["PostgreSQL", "Database", "Query Language"]
-    },
-    {
-      "link": "/books/PHP Notes.pdf",
-      "image": "https://goalkicker.com/PHPBook/PHPGrow.png",
-      "name": "PHP Notes",
-      "tags": ["PHP", "Web Development", "Scripting"]
-    },
-    {
-      "link": "/books/Perl Notes.pdf",
-      "image": "https://goalkicker.com/PerlBook/PerlGrow.png",
-      "name": "Perl Notes",
-      "tags": ["Perl", "Scripting", "Programming"]
-    },
-    {
-      "link": "/books/Oracle Database Notes.pdf",
-      "image": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png",
-      "name": "Oracle Database Notes",
-      "tags": ["Oracle", "Database", "Query Language"]
-    },
-    {
-      "link": "/books/Objective-C Notes.pdf",
-      "image": "https://goalkicker.com/ObjectiveCBook/ObjectiveCGrow.png",
-      "name": "Objective-C Notes",
-      "tags": ["Objective-C", "iOS Development", "Programming"]
-    },
-    {
-      "link": "/books/Node.js Notes.pdf",
-      "image": "https://goalkicker.com/NodeJSBook/NodeJSGrow.png",
-      "name": "Node.js Notes",
-      "tags": ["Node.js", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/MySQL Notes.pdf",
-      "image": "https://goalkicker.com/MySQLBook/MySQLGrow.png",
-      "name": "MySQL Notes",
-      "tags": ["MySQL", "Database", "Query Language"]
-    },
-    {
-      "link": "/books/MongoDB Notes.pdf",
-      "image": "https://goalkicker.com/MongoDBBook/MongoDBGrow.png",
-      "name": "MongoDB Notes",
-      "tags": ["MongoDB", "NoSQL", "Database"]
-    },
-    {
-      "link": "/books/Microsoft SQL Server Notes.pdf",
-      "image": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerGrow.png",
-      "name": "Microsoft SQL Server Notes",
-      "tags": ["SQL Server", "Database", "Microsoft"]
-    },
-    {
-      "link": "/books/MATLAB Notes.pdf",
-      "image": "https://goalkicker.com/MATLABBook/MATLABGrow.png",
-      "name": "MATLAB Notes",
-      "tags": ["MATLAB", "Numerical Computing", "Engineering"]
-    },
-    {
-      "link": "/books/Linux Notes.pdf",
-      "image": "https://goalkicker.com/LinuxBook/LinuxGrow.png",
-      "name": "Linux Notes",
-      "tags": ["Linux", "Operating System", "Unix"]
-    },
-    {
-      "link": "/books/LaTeX Notes.pdf",
-      "image": "https://goalkicker.com/LaTeXBook/LaTeXGrow.png",
-      "name": "LaTeX Notes",
-      "tags": ["LaTeX", "Typesetting", "Document Preparation"]
-    },
-    {
-      "link": "/books/Kotlin Notes.pdf",
-      "image": "https://goalkicker.com/KotlinBook/KotlinGrow.png",
-      "name": "Kotlin Notes",
-      "tags": ["Kotlin", "Java", "Android Development"]
-    },
-    {
-      "link": "/books/jQuery Notes.pdf",
-      "image": "https://goalkicker.com/jQueryBook/jQueryGrow.png",
-      "name": "jQuery Notes",
-      "tags": ["jQuery", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/JavaScript Notes.pdf",
-      "image": "https://goalkicker.com/JavaScriptBook/JavaScriptGrow.png",
-      "name": "JavaScript Notes",
-      "tags": ["JavaScript", "Web Development", "Scripting"]
-    },
-    {
-      "link": "/books/Java Notes.pdf",
-      "image": "https://goalkicker.com/JavaBook/JavaGrow.png",
-      "name": "Java Notes",
-      "tags": ["Java", "Object-Oriented Programming", "Programming"]
-    },
-    {
-      "link": "/books/iOS Notes.pdf",
-      "image": "https://goalkicker.com/iOSBook/iOSGrow.png",
-      "name": "iOS Notes",
-      "tags": ["iOS", "Mobile Development", "Swift"]
-    },
-    {
-      "link": "/books/HTML5 Canvas Notes.pdf",
-      "image": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasGrow.png",
-      "name": "HTML5 Canvas Notes",
-      "tags": ["HTML5", "Canvas", "Web Development"]
-    },
-    {
-      "link": "/books/HTML5 Notes.pdf",
-      "image": "https://goalkicker.com/HTML5Book/HTML5Grow.png",
-      "name": "HTML5 Notes",
-      "tags": ["HTML5", "Web Development", "Markup Language"]
-    },
-    {
-      "link": "/books/Hibernate Notes.pdf",
-      "image": "https://goalkicker.com/HibernateBook/HibernateGrow.png",
-      "name": "Hibernate Notes",
-      "tags": ["Hibernate", "Java", "ORM"]
-    },
-    {
-      "link": "/books/Haskell Notes.pdf",
-      "image": "https://goalkicker.com/HaskellBook/HaskellGrow.png",
-      "name": "Haskell Notes",
-      "tags": ["Haskell", "Functional Programming", "Programming"]
-    },
-    {
-      "link": "/books/Git Notes.pdf",
-      "image": "https://goalkicker.com/GitBook/GitGrow.png",
-      "name": "Git Notes",
-      "tags": ["Git", "Version Control", "Software Development"]
-    },
-    {
-      "link": "/books/Excel VBA Notes.pdf",
-      "image": "https://goalkicker.com/ExcelVBABook/ExcelVBAGrow.png",
-      "name": "Excel VBA Notes",
-      "tags": ["Excel", "VBA", "Microsoft Office"]
-    },
-    {
-      "link": "/books/Entity Framework Notes.pdf",
-      "image": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkGrow.png",
-      "name": "Entity Framework Notes",
-      "tags": ["Entity Framework", "Microsoft", "ORM"]
-    },
-    {
-      "link": "/books/CSS Notes.pdf",
-      "image": "https://goalkicker.com/CSSBook/CSSGrow.png",
-      "name": "CSS Notes",
-      "tags": ["CSS", "Web Development", "Styling"]
-    },
-    {
-      "link": "/books/C# Notes.pdf",
-      "image": "https://goalkicker.com/CSharpBook/CSharpGrow.png",
-      "name": "C# Notes",
-      "tags": ["C#", "Microsoft .NET", "Programming"]
-    },
-    {
-      "link": "/books/C++ Notes.pdf",
-      "image": "https://goalkicker.com/CPlusPlusBook/CPlusPlusGrow.png",
-      "name": "C++ Notes",
-      "tags": ["C++", "Object-Oriented Programming", "Programming"]
-    },
-    {
-      "link": "/books/C Notes.pdf",
-      "image": "https://goalkicker.com/CBook/CGrow.png",
-      "name": "C Notes",
-      "tags": ["C", "Systems Programming", "Programming"]
-    },
-    {
-      "link": "/books/Bash Notes.pdf",
-      "image": "https://goalkicker.com/BashBook/BashGrow.png",
-      "name": "Bash Notes",
-      "tags": ["Bash", "Scripting", "Unix"]
-    },
-    {
-      "link": "/books/AngularJS Notes.pdf",
-      "image": "https://goalkicker.com/AngularJSBook/AngularJSGrow.png",
-      "name": "AngularJS Notes",
-      "tags": ["AngularJS", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/Angular 2 Notes.pdf",
-      "image": "https://goalkicker.com/Angular2Book/Angular2Grow.png",
-      "name": "Angular 2 Notes",
-      "tags": ["Angular", "JavaScript", "Web Development"]
-    },
-    {
-      "link": "/books/Android Notes.pdf",
-      "image": "https://goalkicker.com/AndroidBook/AndroidGrow.png",
-      "name": "Android Notes",
-      "tags": ["Android", "Mobile Development", "Java"]
-    },
-    {
-      "link": "/books/Algorithms Notes.pdf",
-      "image": "https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png",
-      "name": "Algorithms Notes",
-      "tags": ["Algorithms", "Computer Science", "Programming"]
-    },
-    {
-      "link": "/books/dotNET Framework Notes.pdf",
-      "image": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkGrow.png",
-      "name": ".NET Framework Notes",
-      "tags": [".NET", "Microsoft", "Framework"]
-    }
-  ]
+	"list": [
+		{
+			"link": "/books/Xamarin Forms Notes.pdf",
+			"image": "https://goalkicker.com/XamarinFormsBook/XamarinFormsGrow.png",
+			"name": "Xamarin Forms Notes",
+			"tags": ["Xamarin", "Cross-platform", "Mobile Development"]
+		},
+		{
+			"link": "/books/Visual Basic .NET Notes.pdf",
+			"image": "https://goalkicker.com/VisualBasic_NETBook/VisualBasic_NETGrow.png",
+			"name": "Visual Basic .NET Notes",
+			"tags": [".NET", "Microsoft", "Programming"]
+		},
+		{
+			"link": "/books/VBA Notes.pdf",
+			"image": "https://goalkicker.com/VBABook/VBAGrow.png",
+			"name": "VBA Notes",
+			"tags": ["VBA", "Microsoft Office", "Automation"]
+		},
+		{
+			"link": "/books/TypeScript Notes.pdf",
+			"image": "https://goalkicker.com/TypeScriptBook2/TypeScriptGrow.png",
+			"name": "TypeScript Notes",
+			"tags": ["TypeScript", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/Swift Notes.pdf",
+			"image": "https://goalkicker.com/SwiftBook/SwiftGrow.png",
+			"name": "Swift Notes",
+			"tags": ["Swift", "iOS Development", "Programming"]
+		},
+		{
+			"link": "/books/SQL Notes.pdf",
+			"image": "https://goalkicker.com/SQLBook/SQLGrow.png",
+			"name": "SQL Notes",
+			"tags": ["SQL", "Database", "Query Language"]
+		},
+		{
+			"link": "/books/Spring Framework Notes.pdf",
+			"image": "https://goalkicker.com/SpringFrameworkBook/SpringFrameworkGrow.png",
+			"name": "Spring Framework Notes",
+			"tags": ["Spring", "Java", "Framework"]
+		},
+		{
+			"link": "/books/Ruby on Rails Notes.pdf",
+			"image": "https://goalkicker.com/RubyOnRailsBook/RubyOnRailsGrow.png",
+			"name": "Ruby on Rails Notes",
+			"tags": ["Ruby on Rails", "Web Development", "Framework"]
+		},
+		{
+			"link": "/books/Ruby Notes.pdf",
+			"image": "https://goalkicker.com/RubyBook/RubyGrow.png",
+			"name": "Ruby Notes",
+			"tags": ["Ruby", "Scripting", "Programming"]
+		},
+		{
+			"link": "/books/React Native Notes.pdf",
+			"image": "https://goalkicker.com/ReactNativeBook/ReactNativeGrow.png",
+			"name": "React Native Notes",
+			"tags": ["React Native", "JavaScript", "Mobile Development"]
+		},
+		{
+			"link": "/books/ReactJS Notes.pdf",
+			"image": "https://goalkicker.com/ReactJSBook/ReactJSGrow.png",
+			"name": "ReactJS Notes",
+			"tags": ["ReactJS", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/R Notes.pdf",
+			"image": "https://goalkicker.com/RBook/RGrow.png",
+			"name": "R Notes",
+			"tags": ["R", "Statistics", "Data Analysis"]
+		},
+		{
+			"link": "/books/Python Notes.pdf",
+			"image": "https://goalkicker.com/PythonBook/PythonGrow.png",
+			"name": "Python Notes",
+			"tags": ["Python", "Scripting", "Programming"]
+		},
+		{
+			"link": "/books/PowerShell Notes.pdf",
+			"image": "https://goalkicker.com/PowerShellBook/PowerShellGrow.png",
+			"name": "PowerShell Notes",
+			"tags": ["PowerShell", "Scripting", "Automation"]
+		},
+		{
+			"link": "/books/PostgreSQL Notes.pdf",
+			"image": "https://goalkicker.com/PostgreSQLBook/PostgreSQLGrow.png",
+			"name": "PostgreSQL Notes",
+			"tags": ["PostgreSQL", "Database", "Query Language"]
+		},
+		{
+			"link": "/books/PHP Notes.pdf",
+			"image": "https://goalkicker.com/PHPBook/PHPGrow.png",
+			"name": "PHP Notes",
+			"tags": ["PHP", "Web Development", "Scripting"]
+		},
+		{
+			"link": "/books/Perl Notes.pdf",
+			"image": "https://goalkicker.com/PerlBook/PerlGrow.png",
+			"name": "Perl Notes",
+			"tags": ["Perl", "Scripting", "Programming"]
+		},
+		{
+			"link": "/books/Oracle Database Notes.pdf",
+			"image": "https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png",
+			"name": "Oracle Database Notes",
+			"tags": ["Oracle", "Database", "Query Language"]
+		},
+		{
+			"link": "/books/Objective-C Notes.pdf",
+			"image": "https://goalkicker.com/ObjectiveCBook/ObjectiveCGrow.png",
+			"name": "Objective-C Notes",
+			"tags": ["Objective-C", "iOS Development", "Programming"]
+		},
+		{
+			"link": "/books/Node.js Notes.pdf",
+			"image": "https://goalkicker.com/NodeJSBook/NodeJSGrow.png",
+			"name": "Node.js Notes",
+			"tags": ["Node.js", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/MySQL Notes.pdf",
+			"image": "https://goalkicker.com/MySQLBook/MySQLGrow.png",
+			"name": "MySQL Notes",
+			"tags": ["MySQL", "Database", "Query Language"]
+		},
+		{
+			"link": "/books/MongoDB Notes.pdf",
+			"image": "https://goalkicker.com/MongoDBBook/MongoDBGrow.png",
+			"name": "MongoDB Notes",
+			"tags": ["MongoDB", "NoSQL", "Database"]
+		},
+		{
+			"link": "/books/Microsoft SQL Server Notes.pdf",
+			"image": "https://goalkicker.com/MicrosoftSQLServerBook/MicrosoftSQLServerGrow.png",
+			"name": "Microsoft SQL Server Notes",
+			"tags": ["SQL Server", "Database", "Microsoft"]
+		},
+		{
+			"link": "/books/MATLAB Notes.pdf",
+			"image": "https://goalkicker.com/MATLABBook/MATLABGrow.png",
+			"name": "MATLAB Notes",
+			"tags": ["MATLAB", "Numerical Computing", "Engineering"]
+		},
+		{
+			"link": "/books/Linux Notes.pdf",
+			"image": "https://goalkicker.com/LinuxBook/LinuxGrow.png",
+			"name": "Linux Notes",
+			"tags": ["Linux", "Operating System", "Unix"]
+		},
+		{
+			"link": "/books/LaTeX Notes.pdf",
+			"image": "https://goalkicker.com/LaTeXBook/LaTeXGrow.png",
+			"name": "LaTeX Notes",
+			"tags": ["LaTeX", "Typesetting", "Document Preparation"]
+		},
+		{
+			"link": "/books/Kotlin Notes.pdf",
+			"image": "https://goalkicker.com/KotlinBook/KotlinGrow.png",
+			"name": "Kotlin Notes",
+			"tags": ["Kotlin", "Java", "Android Development"]
+		},
+		{
+			"link": "/books/jQuery Notes.pdf",
+			"image": "https://goalkicker.com/jQueryBook/jQueryGrow.png",
+			"name": "jQuery Notes",
+			"tags": ["jQuery", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/JavaScript Notes.pdf",
+			"image": "https://goalkicker.com/JavaScriptBook/JavaScriptGrow.png",
+			"name": "JavaScript Notes",
+			"tags": ["JavaScript", "Web Development", "Scripting"]
+		},
+		{
+			"link": "/books/Java Notes.pdf",
+			"image": "https://goalkicker.com/JavaBook/JavaGrow.png",
+			"name": "Java Notes",
+			"tags": ["Java", "Object-Oriented Programming", "Programming"]
+		},
+		{
+			"link": "/books/iOS Notes.pdf",
+			"image": "https://goalkicker.com/iOSBook/iOSGrow.png",
+			"name": "iOS Notes",
+			"tags": ["iOS", "Mobile Development", "Swift"]
+		},
+		{
+			"link": "/books/HTML5 Canvas Notes.pdf",
+			"image": "https://goalkicker.com/HTML5CanvasBook/HTML5CanvasGrow.png",
+			"name": "HTML5 Canvas Notes",
+			"tags": ["HTML5", "Canvas", "Web Development"]
+		},
+		{
+			"link": "/books/HTML5 Notes.pdf",
+			"image": "https://goalkicker.com/HTML5Book/HTML5Grow.png",
+			"name": "HTML5 Notes",
+			"tags": ["HTML5", "Web Development", "Markup Language"]
+		},
+		{
+			"link": "/books/Hibernate Notes.pdf",
+			"image": "https://goalkicker.com/HibernateBook/HibernateGrow.png",
+			"name": "Hibernate Notes",
+			"tags": ["Hibernate", "Java", "ORM"]
+		},
+		{
+			"link": "/books/Haskell Notes.pdf",
+			"image": "https://goalkicker.com/HaskellBook/HaskellGrow.png",
+			"name": "Haskell Notes",
+			"tags": ["Haskell", "Functional Programming", "Programming"]
+		},
+		{
+			"link": "/books/Git Notes.pdf",
+			"image": "https://goalkicker.com/GitBook/GitGrow.png",
+			"name": "Git Notes",
+			"tags": ["Git", "Version Control", "Software Development"]
+		},
+		{
+			"link": "/books/Excel VBA Notes.pdf",
+			"image": "https://goalkicker.com/ExcelVBABook/ExcelVBAGrow.png",
+			"name": "Excel VBA Notes",
+			"tags": ["Excel", "VBA", "Microsoft Office"]
+		},
+		{
+			"link": "/books/Entity Framework Notes.pdf",
+			"image": "https://goalkicker.com/EntityFrameworkBook/EntityFrameworkGrow.png",
+			"name": "Entity Framework Notes",
+			"tags": ["Entity Framework", "Microsoft", "ORM"]
+		},
+		{
+			"link": "/books/CSS Notes.pdf",
+			"image": "https://goalkicker.com/CSSBook/CSSGrow.png",
+			"name": "CSS Notes",
+			"tags": ["CSS", "Web Development", "Styling"]
+		},
+		{
+			"link": "/books/C# Notes.pdf",
+			"image": "https://goalkicker.com/CSharpBook/CSharpGrow.png",
+			"name": "C# Notes",
+			"tags": ["C#", "Microsoft .NET", "Programming"]
+		},
+		{
+			"link": "/books/C++ Notes.pdf",
+			"image": "https://goalkicker.com/CPlusPlusBook/CPlusPlusGrow.png",
+			"name": "C++ Notes",
+			"tags": ["C++", "Object-Oriented Programming", "Programming"]
+		},
+		{
+			"link": "/books/C Notes.pdf",
+			"image": "https://goalkicker.com/CBook/CGrow.png",
+			"name": "C Notes",
+			"tags": ["C", "Systems Programming", "Programming"]
+		},
+		{
+			"link": "/books/Bash Notes.pdf",
+			"image": "https://goalkicker.com/BashBook/BashGrow.png",
+			"name": "Bash Notes",
+			"tags": ["Bash", "Scripting", "Unix"]
+		},
+		{
+			"link": "/books/AngularJS Notes.pdf",
+			"image": "https://goalkicker.com/AngularJSBook/AngularJSGrow.png",
+			"name": "AngularJS Notes",
+			"tags": ["AngularJS", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/Angular 2 Notes.pdf",
+			"image": "https://goalkicker.com/Angular2Book/Angular2Grow.png",
+			"name": "Angular 2 Notes",
+			"tags": ["Angular", "JavaScript", "Web Development"]
+		},
+		{
+			"link": "/books/Android Notes.pdf",
+			"image": "https://goalkicker.com/AndroidBook/AndroidGrow.png",
+			"name": "Android Notes",
+			"tags": ["Android", "Mobile Development", "Java"]
+		},
+		{
+			"link": "/books/Algorithms Notes.pdf",
+			"image": "https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png",
+			"name": "Algorithms Notes",
+			"tags": ["Algorithms", "Computer Science", "Programming"]
+		},
+		{
+			"link": "/books/dotNET Framework Notes.pdf",
+			"image": "https://goalkicker.com/DotNETFrameworkBook/DotNETFrameworkGrow.png",
+			"name": ".NET Framework Notes",
+			"tags": [".NET", "Microsoft", "Framework"]
+		}
+	]
 }
