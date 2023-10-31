@@ -1,3 +1,3 @@
 :)
 
-_everything is made by [Nitya Naman](https://ciderboi.xyz/) of XI A_
+_everything is made by Tanmay Bardia and Chandradeep Singh_

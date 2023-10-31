@@ -29,8 +29,8 @@ export function Footer() {
 					<span className='footer-title'>SDG Implemented</span>
 					<a
 						className='link link-hover'
-						href='https://www.undp.org/sustainable-development-goals/quality-education?gclid=CjwKCAjwh8mlBhB_EiwAsztdBFzyIgvTtVpJLRDQjDUkStmK_pMO8AhjB_i7UwMqXpF8RPwDsDDmBRoCkOEQAvD_BwE'>
-						3) Quality of Education
+						href='https://sdgs.un.org/goals/goal17'>
+						17) Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 					</a>
 				</div>
 				<div>

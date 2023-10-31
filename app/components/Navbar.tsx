@@ -140,7 +140,7 @@ export function HeaderSearch() {
 						<Group>
 							{/* Github logo to the github source code */}
 							<a
-								href='https://github.com/namanyt/koding-books'
+								href='https://github.com/bhupendra123jogi/bhupendrajogi_library'
 								target='_blank'
 								className='tooltip tooltip-left tooltip-primary'
 								data-tip='Github | Source Code'
@@ -177,7 +177,7 @@ export function HeaderSearch() {
 						<Group>
 							{/* Github logo to the github source code */}
 							<a
-								href='https://github.com/namanyt/kodingbooks'
+								href='https://github.com/bhupendra123jogi/bhupendrajogi_library'
 								target='_blank'
 								className='tooltip tooltip-bottom tooltip-primary'
 								data-tip='Github | Source Code'

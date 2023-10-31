@@ -13,7 +13,7 @@ export default function About() {
 					<div>
 						KodingBooks is an online library dedicated to providing a vast
 						collection of books on programming, scripting, operating systems,
-						and more. Our platform aims to support the mission of SDG 4 -
+						and more. Our platform aims to support the mission of SDG 17 -
 						Quality Education by offering accessible and comprehensive resources
 						to individuals seeking to enhance their knowledge and skills in the
 						field of technology.
@@ -26,12 +26,14 @@ export default function About() {
 						instant access to a wealth of knowledge without the need for a
 						physical form or substance.
 					</div>
-					At KodingBooks, we understand the importance of human-centered
-					problem-solving. We believe that technology plays a crucial role in
-					addressing various challenges faced by individuals and communities. By
-					providing a platform that hosts a wide array of programming and
-					technical resources, we empower learners and professionals to develop
-					innovative solutions that contribute to the betterment of society.
+					<div>
+						At KodingBooks, we understand the importance of human-centered
+						problem-solving. We believe that technology plays a crucial role in
+						addressing various challenges faced by individuals and communities. By
+						providing a platform that hosts a wide array of programming and
+						technical resources, we empower learners and professionals to develop
+						innovative solutions that contribute to the betterment of society.
+					</div>
 					<div>
 						Whether you are a student, an aspiring developer, or a seasoned
 						professional, KodingBooks is here to support your learning journey.

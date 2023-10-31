@@ -37,7 +37,7 @@ export default function Page({ params }: { params: { id: string } }) {
 					<h1 className='text-4xl font-bold'>Terms of Service</h1>
 					<ul className='list-disc list-inside mt-4'>
 						<li>
-							This site is made as a submission for the CAPITALL COMPETITION
+							This site is made as a submission for the IGNITE COMPETITION
 						</li>
 					</ul>
 				</div>
@@ -46,7 +46,7 @@ export default function Page({ params }: { params: { id: string } }) {
 					<h1 className='text-4xl font-bold'>Privacy Policy</h1>
 					<ul className='list-disc list-inside mt-4'>
 						<li>
-							This site is made as a submission for the CAPITALL COMPETITION
+							This site is made as a submission for the IGNITE COMPETITION
 						</li>
 					</ul>
 				</div>
